@@ -1,0 +1,10 @@
+body {
+  background-color: rgb(173, 62, 184); /* Example color */
+}
+html,
+body {
+  background-color: rgb(110, 162, 184) !important;
+}
+img {
+  height: 200px;
+}
